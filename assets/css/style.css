@@ -1006,8 +1006,8 @@ section {
   color: #0f394c;
   margin: 0 3px;
   padding-top: 7px;
-  border-radius: 50px;
-  width: 36px;
+  border-radius: 8px;
+  width: 150px;
   height: 36px;
   background: rgba(73, 181, 231, 0.8);
   display: inline-block;
