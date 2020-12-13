@@ -406,14 +406,20 @@ section {
 }
 
 /*--------------------------------------------------------------
-# About
+# About :text align added by me
 --------------------------------------------------------------*/
 .about .icon-boxes h3 {
   font-size: 28px;
   font-weight: 700;
   color: #0f394c;
   margin-bottom: 15px;
+  text-align: center;
 }
+
+.about .icon-boxes p {
+  text-align: center;  
+}
+ 
 
 .about .icon-box {
   margin-top: 40px;
@@ -468,7 +474,7 @@ section {
 }
 
 .about .video-box {
-  background: url("../img/about.jpg") center center no-repeat;
+  background: url("../img/lizzy_wasi_about_us.png") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
